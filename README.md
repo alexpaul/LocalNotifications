@@ -6,6 +6,9 @@ Working with Local Notifications and the UserNotifications framework.
 
 ![app in the background](Assets/app-in-background.png)
 
+![image attachment](Assets/image-attachment.png)
+
+
 ## 1. Requesting Permissions to use Notifications 
 
 Check for authorization status
