@@ -1,4 +1,4 @@
-# LocalNotifications
+# Local Notifications
 
 Working with Local Notifications and the UserNotifications framework. 
 
