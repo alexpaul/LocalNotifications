@@ -22,7 +22,7 @@ UNUserNotificationCenter.current().getNotificationSettings { (settings) in
 Request authorization
 ```swift 
 let center = UNUserNotificationCenter.current()
-center.requestAuthorization(options: [.alert, .sound, .announcement, .carPlay]) { (granted, error) in
+center.requestAuthorization(options: [.alert, .sound]) { (granted, error) in
   if let error = error {
     // error encountered
     print("error encountered: \(error)")
